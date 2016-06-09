@@ -1,0 +1,1 @@
+Swapped out my freelance portfolio site with a placeholder page. Not accepting contracts at the moment. 
