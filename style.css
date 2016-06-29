@@ -74,7 +74,7 @@ a:hover {
 	color: rgba(200, 200, 200, 0.4);
 }
 
-.big, h2 {
+.big, h3 {
 	text-transform: uppercase;
 	font-size: 38px;
 	font-family: 'Work Sans', sans-serif;
@@ -83,7 +83,7 @@ a:hover {
 	padding: 0;
 	margin: 0;
 }
-.bigger, h1 {
+.bigger, h2 {
 	text-transform: uppercase;
 	font-size: 48px;
 	font-family: 'Work Sans', sans-serif;
