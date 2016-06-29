@@ -106,3 +106,6 @@ img {
 img:hover {
 		opacity: .5;
 	}
+	h1 {
+		display: none;
+	}
