@@ -37,6 +37,9 @@ h2 {
  left: 10px;
 }
 
+h2>a {
+  color: rgba(204,244,71,1);
+}
 
 img {
   width: 80px;
