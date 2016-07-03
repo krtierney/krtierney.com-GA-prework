@@ -25,6 +25,19 @@ h1 {
   color: rgba(12,100,113,.9);
 }
 
+h2 {
+ font-family: 'Prompt', sans-serif;
+ text-transform: uppercase;
+ font-weight: 900; 
+ font-size: 24px;
+ line-height: 24px;
+ color: rgba(204,244,71,1);
+ position: absolute;
+ top: 360px;
+ left: 10px;
+}
+
+
 img {
   width: 80px;
   height: 80px;
@@ -96,4 +109,15 @@ p {
   color: rgba(204,244,71,1) !important;
   font-size: 85px;
   margin-top: -15px;
+}
+
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: rgba(204,244,71,1)
+}
+
+a:hover {
+  color: rgba(146,243,68,.7);
 }
